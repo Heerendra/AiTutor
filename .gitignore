@@ -1,0 +1,21 @@
+# Maven
+/target/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Env / Secrets
+*.env
+application-local.properties
+
+# PDF output
+notes/
+
